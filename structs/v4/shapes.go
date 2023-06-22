@@ -33,7 +33,3 @@ func (t Triangle) Area() float64 {
 type Shape interface {
 	Area() float64
 }
-
-func main(){
-
-}
